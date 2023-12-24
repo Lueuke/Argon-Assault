@@ -56,6 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Argon Assualt.sln",
+    "dotnet.defaultSolution": "Argon Assault.sln",
     "git.ignoreLimitWarning": true
 }
